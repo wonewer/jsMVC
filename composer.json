@@ -1,0 +1,24 @@
+{
+"name":             "wonewer/myvis",
+"description":      "myvis website",
+"keywords":         ["myvis", "git program", "frame"],
+"homepage":         "http://www.sina.com.cn",
+"time":             "2015-05-22",
+"license":          "MIT",
+"authors": [
+    {
+        "name":         "wonewer",
+        "email":        "wonewer@163.com",
+        "homepage":     "http://www.sina.com.cn",
+        "role":         "Engineer"
+    }
+],
+"require": {
+"phpoffice/phpexcel": "dev-master"
+},
+"require-dev": {
+        },
+"autoload":{
+	"psr-4" : {}
+}
+}
